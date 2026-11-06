@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-mono: "JetBrains Mono", "Courier New", monospace;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+    background-color: #06080a;
+  }
+
+  body {
+    background-color: #06080a;
+    color: #e6edf3;
+    font-family: var(--font-sans);
+    overflow-x: hidden;
+    selection-background-color: #00ff66;
+    selection-color: #000000;
+  }
+
+  ::selection {
+    background-color: #00ff66;
+    color: #06080a;
+  }
+
+  /* Custom terminal scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #06080a;
+    border-left: 1px solid #1b2533;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #1b2533;
+    border-radius: 2px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #00ff66;
+  }
+}
+
+/* Scanline / CRT simulation */
+.scanline-overlay {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%,
+    rgba(0, 0, 0, 0.25) 50%
+  );
+  background-size: 100% 4px;
+  z-index: 50;
+  pointer-events: none;
+}
+
+/* Cyber Terminal Glow Utilities */
+.cyber-glow-green {
+  box-shadow: 0 0 15px rgba(0, 255, 102, 0.25);
+}
+
+.cyber-glow-cyan {
+  box-shadow: 0 0 15px rgba(0, 240, 255, 0.25);
+}

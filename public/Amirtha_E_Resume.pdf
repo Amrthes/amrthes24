@@ -1,0 +1,104 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 2016 >>
+stream
+BT
+/F1 18 Tf
+50 740 Td
+(AMIRTHA E - RESUME) Tj
+0 -20 Td
+/F1 11 Tf
+(AI Engineer & Full-Stack Developer) Tj
+0 -15 Td
+/F2 9 Tf
+(Email: amrthes24@gmail.com | GitHub: github.com/Amrthes | LinkedIn: linkedin.com/in/amrthes) Tj
+0 -25 Td
+/F1 12 Tf
+(EDUCATION) Tj
+0 -15 Td
+/F1 10 Tf
+(B.E. Computer Science and Engineering | Bannari Amman Institute of Technology, Erode) Tj
+0 -14 Td
+/F2 9 Tf
+(Period: Sep 2024 - Present | CGPA: 8.27 / 10) Tj
+0 -25 Td
+/F1 12 Tf
+(INDUSTRY EXPERIENCE) Tj
+0 -15 Td
+/F1 10 Tf
+(Software Engineer Intern | Infosys Springboard [Remote] | Jul 2026 - Aug 2026) Tj
+0 -14 Td
+/F2 9 Tf
+(- Engineered AI literacy platform with Next.js, Express, Socket.io, and local Ollama LLMs.) Tj
+0 -13 Td
+(- Built voice pronunciation analysis, real-time analytics, and personalized curriculum modules.) Tj
+0 -18 Td
+/F1 10 Tf
+(Backend Engineer Intern | QiBr Technologies [Hybrid] | Jul 2026 - Sep 2026) Tj
+0 -14 Td
+/F2 9 Tf
+(- Developed AI interior design backend services using FastAPI, PostgreSQL, and Ollama.) Tj
+0 -13 Td
+(- Orchestrated Llama 3.2 models and vector embeddings in a Dockerized multi-service architecture.) Tj
+0 -25 Td
+/F1 12 Tf
+(HONORS & HACKATHONS) Tj
+0 -15 Td
+/F2 9 Tf
+(- IEEE YESIST12 Finalist [Malaysia International]) Tj
+0 -13 Td
+(- 2nd Runner-Up, LudoHack 2025 [100+ competing engineering teams]) Tj
+0 -13 Td
+(- GuideWire Hackathon, Diamond Tier [Parametric micro-insurance platform]) Tj
+0 -13 Td
+(- NeuroHack 2026 Finalist [EEG emotion analysis with SVM RBF kernel optimization]) Tj
+0 -13 Td
+(- C-DAC Kernal Hackathon, Top 20 Finalist across India) Tj
+0 -25 Td
+/F1 12 Tf
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+/F2 9 Tf
+(- Languages: Python, Java, JavaScript, C, SQL [Postgres/pgvector], MySQL) Tj
+0 -13 Td
+(- Frameworks & Tools: Next.js, Node.js, FastAPI, Express, React Native, Tailwind CSS, Git) Tj
+0 -13 Td
+(- ML & AI: PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLOv8, ByteTrack, BERT, LLMs, VLMs) Tj
+0 -25 Td
+/F1 12 Tf
+(LANGUAGES) Tj
+0 -15 Td
+/F2 9 Tf
+(Tamil [Fluent], English [Professional]) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000326 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2464
+%%EOF
